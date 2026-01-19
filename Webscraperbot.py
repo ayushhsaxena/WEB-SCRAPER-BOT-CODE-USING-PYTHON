@@ -1,3 +1,4 @@
+# A web scraper bot is an automated program that extracts information from websites. It visits web pages, reads their content (such as text, images, or data tables), and collects specific data based on predefined rules. Web scraper bots are commonly used for tasks like data analysis, price comparison, research, monitoring website updates, and gathering large datasets efficiently without manual effort. They help save time and enable structured data collection from unstructured web content.
 import requests 
 from bs4 import BeautifulSoup
 def deal_find(search_query):
