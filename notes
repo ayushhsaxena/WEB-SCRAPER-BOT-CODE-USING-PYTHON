@@ -1,1 +1,24 @@
+🕷️ Web Scraper Bot using Python — Notes
+📌 1. What is Web Scraping?
+Web scraping is the process of extracting data from websites automatically.
+Used to collect large amounts of data quickly.
 
+👉 Example:
+
+Scraping product prices from Amazon
+Extracting news headlines from a website
+📌 2. Why Use Python for Web Scraping?
+Easy syntax and readability
+Powerful libraries
+Fast development
+Popular Libraries:
+BeautifulSoup → HTML parsing
+requests → Send HTTP requests
+Selenium → Dynamic websites
+Scrapy → Large-scale scraping
+📌 3. How Web Scraping Works
+Send a request to a webpage
+Get HTML content
+Parse HTML
+Extract required data
+Store data (CSV, DB, JSON)
